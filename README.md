@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/website-development-building-development-process-web-page-programming-codding-digital-specialist-isolated-flat-illustration_613284-3381.jpg?t=st=1728378182~exp=1728381782~hmac=8919ab1028adb72bb892a63d215122e58c93c9ad63dbd51354d00a982b9b9215&w=996)
+![MasterHead](https://img.freepik.com/free-vector/website-development-building-development-process-web-page-programming-codding-digital-specialist-isolated-flat-illustration_613284-3381.jpg?t=st=1728378182~exp=1728381782~hmac=8919ab1028adb72bb892a63d215122e58c93c9ad63dbd51354d00a982b9b9215&w=996)
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">Crafting Dynamic Web Experiences with Precision and Passion | Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
