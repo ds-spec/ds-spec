@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/next_gendev" target="blank"><img src="https://img.shields.io/twitter/follow/next_gendev?logo=twitter&style=for-the-badge" alt="next_gendev" /></a> </p>
 
-- 🔭 I’m currently working on **Task Manager**
+- 🔭 I’m currently working on **Building my own small version of GIT**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS, Prisma ORM, Postgresql, Low level programming**
 
-- 💬 Ask me about **React, Javascript, Responsive designs**
+- 💬 Ask me about **React, Javascript, Responsive designs, Problem Solving**
 
 - 📫 How to reach me **ds262969@gmail.com**
 
